@@ -1,0 +1,3 @@
+Name,Description,UnlockTemSpecGroup,ThreatGroup,Portal
+PortalGroup1,Group of Portals,Normal,test,Temp
+PortalGroup2,Group of Portals,Normal,,Temp

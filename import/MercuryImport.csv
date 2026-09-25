@@ -1,0 +1,117 @@
+NodeName,NodeIPAddress,BoardName,Channel,Address
+AH:Adams Hall,10.50.75.69,AH:Adams Hall-CP0-1501,0,0
+AH:Adams Hall,10.50.75.69,AH:Adams Hall-CP1-MR52,1,0
+AL:Alex,10.50.75.67,AL:Alex-CP0-NEW PANEL,0,0
+AL:Alex,10.50.75.67,AL:Alex-CP1-MR52,1,0
+AL:Alex,10.50.75.67,AL:Alex-CP2-MR52,2,0
+AL:Alex,10.50.75.67,AL:Alex-CP2-MR52,2,1
+Admission House,10.40.75.68,Admission House-CP0-1502,0,0
+BN: Buchanan Hall,10.50.75.70,BN: Buchanan Hall-CP0-1502,0,0
+BTP 325,10.20.75.71,BTP 325-CP0-1502,0,0
+BTP 325,10.20.75.71,BTP 325-CP1-MR52,1,0
+BTP 325,10.20.75.71,BTP 325-CP1-MR52,1,1
+Bica-Ross,10.30.75.66,Bica-Ross-CP0-NEW PANEL,0,0
+Bica-Ross,10.30.75.66,Bica-Ross-CP1-MR52,1,0
+Bica-Ross,10.30.75.66,Bica-Ross-CP1-MR52,1,1
+Bica-Ross,10.30.75.66,Bica-Ross-CP1-MR52,1,2
+Bica-Ross,10.30.75.66,Bica-Ross-CP1-MR52,1,3
+Burnett Center,10.70.75.66,Burnett Center-CP1-MR52,1,0
+Burnett Center,10.70.75.66,Burnett Center-CP1-MR52,1,1
+Burnett Center,10.70.75.66,Burnett Center-CP1-MR16IN,1,3
+Burnett Center,10.70.75.66,Burnett Center-CP2-MR50,2,0
+CH:Cleveland Hall,10.50.75.71,CH:Cleveland Hall-CP0-NEW PANEL,0,0
+CH:Cleveland Hall,10.50.75.71,CH:Cleveland Hall-CP1-MR52,1,0
+Campus Safety,10.10.75.65,Campus Safety-CP0-1502,0,0
+Commons,10.10.75.66,Commons-CP0-1502,0,0
+Cooper Hall,10.50.75.66,Cooper Hall-CP0-NEW PANEL,0,0
+Cooper Hall,10.50.75.66,Cooper Hall-CP1-MR52,1,0
+Cooper Hall,10.50.75.66,Cooper Hall-CP1-MR50,1,1
+Cooper Hall,10.50.75.66,Cooper Hall-CP1-MR52,1,2
+Cooper Hall,10.50.75.66,Cooper Hall-CP1-MR52,1,3
+Cooper Hall,10.50.75.66,Cooper Hall-CP1-MR52,1,4
+DG Bldg. 322,10.20.75.66,DG Bldg. 322-CP0-NEW PANEL,0,0
+DG Bldg. 322,10.20.75.66,DG Bldg. 322-CP2-MR52,2,0
+DG Bldg. 322,10.20.75.66,DG Bldg. 322-CP2-MR52,2,1
+DH:Washington Hall,10.50.75.72,DH:Washington Hall-CP0-NEW PANEL,0,0
+DH:Washington Hall,10.50.75.72,DH:Washington Hall-CP1-MR52,1,0
+DTD Bldg. 211,10.20.75.67,DTD Bldg. 211-CP0-NEW PANEL,0,0
+DTD Bldg. 211,10.20.75.67,DTD Bldg. 211-CP2-MR52,2,0
+DTD Bldg. 211,10.20.75.67,DTD Bldg. 211-CP2-MR52,2,1
+Davis Hall,10.40.75.67,Davis Hall-CP1-MR16IN,1,0
+Dieter-Porter,10.40.75.66,Dieter-Porter-CP0-1502,0,0
+Dieter-Porter,10.40.75.66,Dieter-Porter-CP1-MR16IN,1,0
+Dieter-Porter,10.40.75.66,Dieter-Porter-CP1-MR16OUT,1,0
+Fillmore Dorm,10.50.75.74,Fillmore Dorm-CP0-1502,0,0
+HH:Harrison Hall,10.50.75.76,HH:Harrison Hall-CP0-NEW PANEL,0,0
+HH:Harrison Hall,10.50.75.76,HH:Harrison Hall-CP1-MR52,1,0
+Henry/Rec.Center IDF 139,10.30.75.71,Henry/Rec.Center IDF 139-CP0-1502,0,0
+Henry/Rec.Center IDF 139,10.30.75.71,Henry/Rec.Center IDF 139-CP1-MR16IN,1,30
+Henry/Rec.Center IDF 307,10.30.75.73,Henry/Rec.Center IDF 307-CP0-1502,0,0
+Henry/Rec.Center IDF 307,10.30.75.73,Henry/Rec.Center IDF 307-CP1-MR52,1,0
+Henry/Rec.Center IDF 307,10.30.75.73,Henry/Rec.Center IDF 307-CP1-MR16IN,1,30
+Henry/Rec.Center IDF 353,10.30.75.72,Henry/Rec.Center IDF 353-CP0-1502,0,0
+Henry/Rec.Center IDF 353,10.30.75.72,Henry/Rec.Center IDF 353-CP1-MR16IN,1,30
+IH:Lincoln Hall,10.50.75.78,IH:Lincoln Hall-CP0-1501,0,0
+IH:Lincoln Hall,10.50.75.78,IH:Lincoln Hall-CP1-MR52,1,0
+JH:Jefferson Hall,10.50.75.77,JH:Jefferson Hall-CP0-NEW PANEL,0,0
+JH:Jefferson Hall,10.50.75.77,JH:Jefferson Hall-CP1-MR52,1,0
+KAT Bldg. 301,10.20.75.68,KAT Bldg. 301-CP0-NEW PANEL,0,0
+KAT Bldg. 301,10.20.75.68,KAT Bldg. 301-CP2-MR52,2,0
+KAT Bldg. 301,10.20.75.68,KAT Bldg. 301-CP2-MR52,2,1
+KKG 315,10.20.75.70,KKG 315-CP0-NEW PANEL,0,0
+KKG 315,10.20.75.70,KKG 315-CP1-MR52,1,0
+Library,10.10.75.68,Library-CP0-1502,0,0
+Library,10.10.75.68,Library-CP1-MR52,1,0
+MO:Monroe Hall,10.50.75.73,MO:Monroe Hall-CP0-1501,0,0
+MO:Monroe Hall,10.50.75.73,MO:Monroe Hall-CP1-MR52,1,0
+Marshall Hall,10.50.75.68,Marshall Hall-CP0-1501,0,0
+Marshall Hall,10.50.75.68,Marshall Hall-CP1-MR52,1,0
+Mellon Hall,10.30.75.68,Mellon Hall-CP0-NEW PANEL,0,0
+Mellon Hall,10.30.75.68,Mellon Hall-CP1-MR52,1,0
+Mellon Hall,10.30.75.68,Mellon Hall-CP1-MR50,1,1
+NH:North Hall,10.30.75.70,NH:North Hall-CP0-1501,0,0
+NH:North Hall,10.30.75.70,NH:North Hall-CP1-MR50,1,0
+NH:North Hall,10.30.75.70,NH:North Hall-CP1-MR52,1,2
+NRH Dorm 1,10.30.75.67,NRH Dorm 1-CP0-NEW PANEL,0,0
+NRH Dorm 1,10.30.75.67,NRH Dorm 1-CP1-MR50,1,0
+NRH Dorm 1,10.30.75.67,NRH Dorm 1-CP1-MR52,1,1
+NRH Dorm 1,10.30.75.67,NRH Dorm 1-CP1-MR52,1,2
+NRH Dorm 1,10.30.75.67,NRH Dorm 1-CP1-MR52,1,3
+NRH Dorm 1,10.30.75.67,NRH Dorm 1-CP1-MR52,1,4
+Old Main Math Lounge,10.10.75.70,Old Main Math Lounge-CP0-1501,0,0
+Olin Arts Center,10.70.75.65,Olin Arts Center-CP0-1502,0,0
+PBP 147,10.20.75.69,PBP 147-CP0-NEW PANEL,0,0
+PBP 147,10.20.75.69,PBP 147-CP2-MR52,2,0
+PBP 147,10.20.75.69,PBP 147-CP2-MR52,2,1
+"PDT  Triplex 125,127,135",10.20.75.65,"PDT  Triplex 125,127,135-CP0-1501",0,0
+"PDT  Triplex 125,127,135",10.20.75.65,"PDT  Triplex 125,127,135-CP1-MR52",1,0
+"PDT  Triplex 125,127,135",10.20.75.65,"PDT  Triplex 125,127,135-CP1-MR52",1,1
+"PDT  Triplex 125,127,135",10.20.75.65,"PDT  Triplex 125,127,135-CP1-MR52",1,2
+"PDT  Triplex 125,127,135",10.20.75.65,"PDT  Triplex 125,127,135-CP1-MR52",1,3
+"PDT  Triplex 125,127,135",10.20.75.65,"PDT  Triplex 125,127,135-CP1-MR52",1,4
+"PDT  Triplex 125,127,135",10.20.75.65,"PDT  Triplex 125,127,135-CP1-MR52",1,5
+PGD 312.,10.20.75.72,PGD 312.-CP0-1502,0,0
+Penn House,10.50.75.65,Penn House-CP0-1502,0,0
+President House,10.10.75.69,President House-CP1-MR16IN,1,30
+Swanson Science,10.40.75.65,Swanson Science-CP1-MR52,1,0
+Swanson Science,10.40.75.65,Swanson Science-CP1-MR52,1,1
+Swanson Science,10.40.75.65,Swanson Science-CP1-MR50,1,2
+Swanson Science,10.40.75.65,Swanson Science-CP1-MR16IN,1,4
+Swanson Science Wireless,,Swanson Science Wireless-CP0-NEW PANEL,0,0
+Tech Center,10.60.75.65,Tech Center-CP0-NEW PANEL,0,0
+Tech Center,10.60.75.65,Tech Center-CP1-MR52,1,0
+Tech Center,10.60.75.65,Tech Center-CP1-MR52,1,2
+Tech Center,10.60.75.65,Tech Center-CP1-MR52,1,3
+Tech Center,10.60.75.65,Tech Center-CP1-MR52,1,4
+Thompson IDF Room,10.10.75.71,Thompson IDF Room-CP0-1501,0,0
+Upper Class,10.30.75.69,Upper Class-CP0-NEW PANEL,0,0
+Upper Class,10.30.75.69,Upper Class-CP1-MR52,1,0
+Upper Class,10.30.75.69,Upper Class-CP1-MR50,1,1
+WABI,10.20.75.73,WABI-CP0-1502,0,0
+WABI,10.20.75.73,WABI-CP1-MR52,1,0
+Wade Hall,10.70.75.68,Wade Hall-CP0-NEW PANEL,0,0
+Wade Hall,10.70.75.68,Wade Hall-CP1-MR52,1,0
+Wellness Center,10.30.75.65,Wellness Center-CP0-1502,0,0
+Wellness Center,10.30.75.65,Wellness Center-CP1-MR52,1,0
+Whitworth Hall,10.70.75.67,Whitworth Hall-CP1-MR16IN,1,0
+Whitworth Hall,10.70.75.67,Whitworth Hall-CP1-MR52,1,0

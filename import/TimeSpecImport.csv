@@ -1,0 +1,3 @@
+Name,Description,StartTime,EndTime,Mon,Tues,Wed,Thurs,Fri,Sat,Sun
+Weekly,5-9 Weeksays,5:00,21:00,1,1,1,1,1,0,0
+Weekend,9-4:30 weekend,9:00,16:30,0,0,0,0,0,1,1

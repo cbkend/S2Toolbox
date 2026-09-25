@@ -1,0 +1,3 @@
+Name,Description,ReaderGroup,TimeSpecGroup,ThreatLevelGroup
+TestACL,This is a Test,Test_Template,Normal,test
+Test2ACL,This is a Test,Test_Template2,Normal,
